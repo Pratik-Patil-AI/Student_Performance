@@ -5,22 +5,23 @@
 [![Power BI](https://img.shields.io/badge/Power%20BI-Analytics-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
 [![Status](https://img.shields.io/badge/Project-Completed-success?style=for-the-badge)]()
 [![Dashboard](https://img.shields.io/badge/Dashboard-Interactive-blue?style=for-the-badge)]()
-[![Pages](https://img.shields.io/badge/Report%20Pages-5-informational?style=for-the-badge)]()
+[![Pages](https://img.shields.io/badge/Report%20Pages-3-informational?style=for-the-badge)]()
 
 ---
 
 ## 🖥️ Dashboard Preview
 
 ### Student Performance
-![Student Performance](Images/Student-Performance.png)
+![Student Performance](Images/Student_Performance.png)
 
 ### Attendance Analysis
-![Attendance Analysis](Images/Attendance-Analysis.png)
+![Attendance Analysis](Images/Attendance_Analysis.png)
 
 ### Drill-Through Details
-![Drill-Through Details](Images/Drill-Through-Details.png)
+![Drill-Through Details](Images/Drill_Through_Details.png)
 
-> **Note:** Add the exported Power BI page screenshots to the `Images` folder using the filenames above. The dashboard previews are intentionally placed near the beginning of this README for a portfolio-first presentation.
+### Tooltip
+![Tooltip](Images/Tooltip.png)
 
 ---
 
@@ -153,8 +154,9 @@ Performance Category
 ## 📂 Repository Structure
 
 ```
-├── Practical_Exam.pbix          # Power BI report file
-├── Images/                      # Exported page screenshots
+├── Practical_Exam.pbix
+├── Dataset         
+├── Images/                      
 │   ├── Student-Performance.png
 │   ├── Attendance-Analysis.png
 │   └── Drill-Through-Details.png
@@ -182,6 +184,17 @@ Performance Category
 
 ---
 
+---
 ## 👤 Author
 
-*Add your name, portfolio link, and contact details here.*
+**Pratik Patil**
+
+Power BI • Data Analytics • Business Intelligence
+
+---
+
+## ⭐ If You Find This Project Useful
+
+If you like this dashboard or find it useful for learning Power BI and data analytics, consider giving the repository a ⭐.
+
+---
